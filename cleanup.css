@@ -1,0 +1,29 @@
+/* Woolworths */
+
+.categoryList-aisle {
+	height: auto !important;
+}
+
+.categoryList-aisleImage {
+	display: none !important;
+}
+
+.categoryList .is-expanded {
+	border-bottom: 1px solid rgba(50,50,50,.5);
+}
+
+.shelfProductStampFooter,
+.productTag-lowerpricealways,
+.inspirationCard,
+.headerbanner-large,
+.topStrip,
+.merch-assoc {
+	display: none !important;
+}
+
+
+/* Coles */
+
+.is-promo {
+	display: none !important;
+}
